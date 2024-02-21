@@ -1,5 +1,5 @@
-<h1 align="center">Welcome yo my profile, I'm Luciano Beylouni Farias</h1>
-<h3 align="center">A curious data scientist from Brazil</h3>
+<h1 align="center">Welcome To my profile, I'm Luciano Farias 😉</h1>
+<h3 align="center">A data scientist, engineer and analyst from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beylouni&label=Profile%20views&color=0e75b6&style=flat" alt="beylouni" /> </p>
 
