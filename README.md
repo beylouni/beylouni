@@ -1,25 +1,23 @@
-<h1 align="center">Welcome To my profile, I'm Luciano Farias 😉</h1>
-<h3 align="center">A data scientist, engineer and analyst from Brazil</h3>
+<h1 align="center">Welcome To my profile, I'm Luciano Beylouni 😉</h1>
+<h3 align="center">A data scientist, engineer and Machine Learning researcher from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beylouni&label=Profile%20views&color=0e75b6&style=flat" alt="beylouni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beylouni" alt="beylouni" /></a> </p>
 
-- 🔭 I’m currently working at [Poatek 💚](https://www.poatek.com/)
+- 🔭 I’m currently working at [Warp10 AI](https://www.linkedin.com/company/warp10-ai)
 
-- 🌱 I’m currently learning **GARCH Models ⌚**
+- 🌱 I’m currently researching novel explainability and uncertainty quantification methods in life sciences, such as **KANs and Conformal Prediction**
 
-- 👯 I’m looking to collaborate on **Open Source projects 📃**
+- 👯 I’m always looking to collaborate on **research projects related to my interests**
 
 - 👨‍💻 All of my projects are available at [github.com/beylouni](github.com/beylouni)
 
-- 📝 I regularly write articles on [https://medium.com/@poatek](https://medium.com/@poatek)
+- 💬 Ask me about **Statistical Machine Learning, Deep Learning and Time Series**
 
-- 💬 Ask me about **Time Series forecasting 📈**
+- 📫 How to reach me **lbfarias@inf.ufrgs.br**
 
-- 📫 How to reach me **beylouniluciano@gmail.com**
-
-- ⚡ Fun fact **I really like bunnies 🐰**
+- ⚡ Fun fact **I really like biology and physics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
